@@ -1,0 +1,11 @@
+C:\Users\pansa\source\repos\Enkapsulacja\obj\Debug\netcoreapp3.1\Enkapsulacja.csprojAssemblyReference.cache
+C:\Users\pansa\source\repos\Enkapsulacja\obj\Debug\netcoreapp3.1\Enkapsulacja.AssemblyInfoInputs.cache
+C:\Users\pansa\source\repos\Enkapsulacja\obj\Debug\netcoreapp3.1\Enkapsulacja.AssemblyInfo.cs
+C:\Users\pansa\source\repos\Enkapsulacja\bin\Debug\netcoreapp3.1\Enkapsulacja.exe
+C:\Users\pansa\source\repos\Enkapsulacja\bin\Debug\netcoreapp3.1\Enkapsulacja.deps.json
+C:\Users\pansa\source\repos\Enkapsulacja\bin\Debug\netcoreapp3.1\Enkapsulacja.runtimeconfig.json
+C:\Users\pansa\source\repos\Enkapsulacja\bin\Debug\netcoreapp3.1\Enkapsulacja.runtimeconfig.dev.json
+C:\Users\pansa\source\repos\Enkapsulacja\bin\Debug\netcoreapp3.1\Enkapsulacja.dll
+C:\Users\pansa\source\repos\Enkapsulacja\bin\Debug\netcoreapp3.1\Enkapsulacja.pdb
+C:\Users\pansa\source\repos\Enkapsulacja\obj\Debug\netcoreapp3.1\Enkapsulacja.dll
+C:\Users\pansa\source\repos\Enkapsulacja\obj\Debug\netcoreapp3.1\Enkapsulacja.pdb
